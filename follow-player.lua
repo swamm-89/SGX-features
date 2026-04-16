@@ -55,7 +55,7 @@ IntroBg.ZIndex = 100
 IntroBg.Parent = ScreenGui
 
 local IntroText = Instance.new("TextLabel")
-IntroText.Text = "FOLLOW PLAYER"
+IntroText.Text = "FOLLOW PLAYER 🫂"
 IntroText.Font = Enum.Font.GothamBlack
 IntroText.TextSize = 20
 IntroText.TextColor3 = Theme.Accent
